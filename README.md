@@ -10,12 +10,12 @@ Task 1:
   
  Task 2:
   Set up your system by downloading the necessary files, tools and dependencies.
-  Fix the broken typescript files in repository to make the web application output correctly
+  Fix the broken typescript files in repository to make the web application output correctly.
   Generate a patch file of the changes you made.
   
  Task 3:
   Set up your system by downloading the necessary files, tools and dependencies. 
-  Modify the typescript files in repository to make the web application behave in the expected manner
+  Modify the typescript files in repository to make the web application behave in the expected manner.
   Generate a patch file of the changes you made.
   
  Used python and Javascript in these tasks.
